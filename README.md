@@ -1,4 +1,4 @@
-Notes.vim
+Vim Notes
 =========
 Hack-A-Week 5: A folding file for my notes, written in vimscript.
 

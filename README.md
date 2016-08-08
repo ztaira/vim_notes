@@ -4,6 +4,8 @@ Hack-A-Week 5: A folding file for my notes, written in vimscript.
 
 ### Features
 - Allows vim to fold notes for easier navigation and readability
+- Provides example notes on common vulnerabilities as well as example in
+comments
 
 ### What it does
 - Defines a framework to structure notes for repeatability and readibility
@@ -25,7 +27,7 @@ Hack-A-Week 5: A folding file for my notes, written in vimscript.
 ### Partially Folded
 
 ![alt text][outputimage2]
-[outputimage2]: https://github.com/ztaira14/bug_notes/blob/master/diagrams/unfolded.png "Partially Folded"
+[outputimage2]: https://github.com/ztaira14/bug_notes/blob/master/diagrams/partiallyfolded.png "Partially Folded"
 
 ### Fully Folded
 

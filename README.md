@@ -17,6 +17,14 @@ comments
 ### Reasons for not doing things
 - "There should be one-- and preferably only one --obvious way to do it" -Zen of Python
 
+### Included Files
+```
+- README.md..................This readme file
+- bug_notes.md...............Example notes file
+- diagrams...................Reference images and diagrams folder
+- notes.vim..................Notes folding file
+```
+
 ### Example
 
 ### Unfolded

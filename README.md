@@ -30,14 +30,17 @@ comments
 ### Unfolded
 
 ![alt text][outputimage]
+
 [outputimage]: https://github.com/ztaira14/bug_notes/blob/master/diagrams/unfolded.png "Unfolded"
 
 ### Partially Folded
 
 ![alt text][outputimage2]
+
 [outputimage2]: https://github.com/ztaira14/bug_notes/blob/master/diagrams/partiallyfolded.png "Partially Folded"
 
 ### Fully Folded
 
 ![alt text][outputimage3]
+
 [outputimage3]: https://github.com/ztaira14/bug_notes/blob/master/diagrams/fullyfolded.png "Fully Folded"
